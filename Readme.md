@@ -21,5 +21,5 @@
 
 # Technologies
 1. Static HTML pages
-2. Dynamic form submissions in Angular.JS
+2. Dynamic form submissions in AngularJS
 3. Based on prepared Bootstrap template
