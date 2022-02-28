@@ -15,8 +15,12 @@
 5. Contact information
 6. Job pages
 
-<img src="https://github.com/SvetlanaM/margetova.eu/blob/master/images/slide2.png"
-     alt="iOS eHealth project"
+<img src="https://github.com/SvetlanaM/margetova.eu/blob/master/images/form.png"
+     alt="form"
+     style="float: left; margin-right: 10px;" />
+
+<img src="https://github.com/SvetlanaM/margetova.eu/blob/master/images/slider.png"
+     alt="slider"
      style="float: left; margin-right: 10px;" />
 
 # Technologies
