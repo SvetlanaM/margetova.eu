@@ -2,7 +2,7 @@
 <table>
 <tr>
 <td>
-  One of the versions of my personal website for promotion my work, services and projects. This is old project.
+  One of the versions of my personal website for promotion of my work, services and projects. This is old project.
 </td>
 </tr>
 </table>
@@ -15,8 +15,8 @@
 5. Contact information
 6. Job pages
 
-<img src="https://github.com/SvetlanaM/margetova.eu/blob/master/images/slide4.png"
-     alt="iOS TEDx project"
+<img src="https://github.com/SvetlanaM/margetova.eu/blob/master/images/slide2.png"
+     alt="iOS eHealth project"
      style="float: left; margin-right: 10px;" />
 
 # Technologies
