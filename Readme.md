@@ -15,10 +15,12 @@
 5. Contact information
 6. Job pages
 
+<h3>Example of my interactive form from webarchive</h3>
 <img src="https://github.com/SvetlanaM/margetova.eu/blob/master/images/form.png"
      alt="form"
      style="float: left; margin-right: 10px;" />
 
+<h3>Example of my slider of projects from webarchive</h3>
 <img src="https://github.com/SvetlanaM/margetova.eu/blob/master/images/slider.png"
      alt="slider"
      style="float: left; margin-right: 10px;" />
